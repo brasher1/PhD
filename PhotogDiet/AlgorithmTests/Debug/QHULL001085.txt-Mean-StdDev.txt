@@ -1,0 +1,4 @@
+Dim	Mean	StdDev
+X	-1.#IND00	-1.#IND00
+Y	-1.#IND00	-1.#IND00
+Z	-1.#IND00	-1.#IND00

@@ -1,0 +1,8 @@
+bin\Debug\DatagridControls.dll
+bin\Debug\DatagridControls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatagridControls.splitDataGrid.resources
+obj\Debug\DatagridControls.djbDataGrid.resources
+obj\Debug\DatagridControls.csproj.GenerateResource.Cache
+obj\Debug\DatagridControls.dll
+obj\Debug\DatagridControls.pdb

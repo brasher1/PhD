@@ -1,0 +1,259 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_PHOTOGDIET          ICON                    "PhotogDiet.ico"
+IDI_SMALL               ICON                    "small.ico"
+IDI_ICON1               ICON                    "icon1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDC_PHOTOGDIET MENU 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "Open and Process Meal",       ID_FILE_OPEN
+        MENUITEM "Open Single File",            ID_FILE_OPENSINGLEFILE
+        MENUITEM SEPARATOR
+        MENUITEM "Batch Process",               ID_FILE_BATCHPROCESS
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       IDM_EXIT
+    END
+    POPUP "Edit"
+    BEGIN
+        MENUITEM "Preferences",                 ID_EDIT_PREFERENCES
+    END
+    POPUP "Algorithm"
+    BEGIN
+        MENUITEM "Complete",                    ID_ALGORITHM_COMPLETE
+        MENUITEM SEPARATOR
+        MENUITEM "Complete-Threaded",           ID_ALGORITHM_COMPLETE32787
+        MENUITEM SEPARATOR
+        MENUITEM "OpenCV Canny",                ID_ALGORITHM_OPE
+        MENUITEM SEPARATOR
+        MENUITEM "Run UpWrite",                 ID_EDGES_RUNUPWRITE
+        MENUITEM SEPARATOR
+        MENUITEM "Pick Meal Photos",            ID_ALGORITHM_PICKMEALPHOTOS
+        MENUITEM SEPARATOR
+        MENUITEM "Run from Camera Loc",         ID_ALGORITHM_RUNFROMCAMERALOC
+    END
+    POPUP "Tools"
+    BEGIN
+        MENUITEM "Negate Image",                ID_TOOLS_NEGATEIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "Calibrate Camera",            ID_TOOLS_CALIBRATEIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "Test Ray Intersect",          ID_TOOLS_TESTRAYINTERSECT
+        MENUITEM SEPARATOR
+        MENUITEM "Test Segmentation",           ID_TOOLS_TESTSEGMENTATION
+        MENUITEM SEPARATOR
+        MENUITEM "Test OpenCV Canny",           ID_TOOLS_TESTOPENCVCANNY
+        MENUITEM SEPARATOR
+        MENUITEM "Test DB Routines",            ID_TOOLS_TESTDBROUTINES
+        MENUITEM SEPARATOR
+        MENUITEM "Test FindFood",               ID_TOOLS_TESTFINDFOOD
+        MENUITEM SEPARATOR
+        MENUITEM "Test Create Rays",            ID_TOOLS_TESTCREATERAYS
+        MENUITEM SEPARATOR
+        MENUITEM "Test Matching BLOBs",         ID_TOOLS_TESTMATCHINGBLOBS
+        MENUITEM SEPARATOR
+        MENUITEM "Test Camera Location",        ID_TOOLS_TESTCAMERALOCATION
+        MENUITEM SEPARATOR
+        MENUITEM "Test Undistort Image",        ID_TOOLS_TESTUNDISTORTIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "Test OpenCV Segmentation",    ID_TOOLS_TESTOPENCVSEGMENTATION
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About ...",                  IDM_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDC_PHOTOGDIET ACCELERATORS 
+BEGIN
+    "?",            IDM_ABOUT,              ASCII,  ALT
+    "/",            IDM_ABOUT,              ASCII,  ALT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About PhotogDiet"
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            128,IDC_STATIC,14,14,21,20
+    LTEXT           "PhotogDiet, Version 1.0",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2010",IDC_STATIC,42,26,114,8
+    DEFPUSHBUTTON   "OK",IDOK,113,41,50,14,WS_GROUP
+END
+
+IDD_PREFERENCES DIALOGEX 0, 0, 316, 98
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Preferences"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "Save",IDOK,205,77,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,259,77,50,14
+    COMBOBOX        IDC_PLACEMATMAP,87,7,222,30,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Choose a placemat map",IDC_STATIC,7,9,77,10
+    LTEXT           "UpWrite initial radius",IDC_STATIC,7,26,66,12
+    EDITTEXT        IDC_UPWRITERADIUS,87,24,56,14,ES_AUTOHSCROLL
+    LTEXT           "Location of qHull executable",IDC_STATIC,7,47,94,12
+    EDITTEXT        IDC_UPWRITERADIUS2,99,44,162,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Browse",IDC_BUTTON1,259,44,50,14
+END
+
+IDD_FIXMONUMENTPOINT DIALOGEX 0, 0, 316, 95
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Fix Monument Point"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Monument Point Number",IDC_STATIC,7,7,81,12
+    COMBOBOX        IDC_POINTPICKER,95,7,214,65,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Photo X",IDC_STATIC,62,30,26,8
+    EDITTEXT        IDC_PHOTOX,95,26,62,14,ES_AUTOHSCROLL | ES_READONLY | NOT WS_TABSTOP
+    LTEXT           "Photo Y",IDC_STATIC,62,51,26,8
+    EDITTEXT        IDC_PHOTOY,95,48,62,14,ES_AUTOHSCROLL | ES_READONLY | NOT WS_TABSTOP
+    DEFPUSHBUTTON   "Save Point",IDD_SAVEPOINT,135,74,50,14
+    PUSHBUTTON      "Delete Point",IDC_DELETEPOINT,197,74,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,259,74,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 55
+    END
+
+    IDD_PREFERENCES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 91
+    END
+
+    IDD_FIXMONUMENTPOINT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_TITLE           "PhotogDiet"
+    IDC_PHOTOGDIET          "PHOTOGDIET"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

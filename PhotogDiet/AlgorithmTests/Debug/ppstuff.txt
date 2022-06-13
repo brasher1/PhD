@@ -1,0 +1,1302 @@
+START
+m=0, map_id=0, shading=100
+m=1, map_id=0, shading=100
+m=2, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 100,  Shade4:0
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=16, shading=0
+m=10, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 100,  Shade4:0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=13, shading=100
+m=14, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=0, shading=0
+m=1, map_id=0, shading=0
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=0, shading=0
+m=1, map_id=0, shading=0
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=0, shading=100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=0
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+END
+START
+m=0, map_id=0, shading=100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=0
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=14, shading=100
+m=17, map_id=21, shading=0
+m=18, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=19, map_id=0, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=14, shading=100
+m=17, map_id=21, shading=0
+m=18, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=19, map_id=0, shading=0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=100
+m=16, map_id=14, shading=100
+m=17, map_id=0, shading=0
+m=18, map_id=21, shading=0
+m=19, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=100
+m=16, map_id=14, shading=100
+m=17, map_id=0, shading=0
+m=18, map_id=21, shading=0
+m=19, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=14, shading=100
+m=13, map_id=21, shading=0
+m=14, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=14, shading=100
+m=13, map_id=21, shading=0
+m=14, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=14, shading=100
+m=14, map_id=21, shading=0
+m=15, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=14, shading=100
+m=14, map_id=21, shading=0
+m=15, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+m=15, map_id=14, shading=100
+m=16, map_id=21, shading=0
+m=17, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+m=15, map_id=14, shading=100
+m=16, map_id=21, shading=0
+m=17, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=14, shading=100
+m=17, map_id=21, shading=0
+m=18, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+m=15, map_id=0, shading=0
+m=16, map_id=14, shading=100
+m=17, map_id=21, shading=0
+m=18, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=0
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=14, shading=100
+m=14, map_id=21, shading=0
+m=15, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+m=13, map_id=14, shading=100
+m=14, map_id=21, shading=0
+m=15, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+m=15, map_id=14, shading=100
+m=16, map_id=21, shading=0
+m=17, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+m=14, map_id=0, shading=0
+m=15, map_id=14, shading=100
+m=16, map_id=21, shading=0
+m=17, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+END
+START
+m=0, map_id=0, shading=100
+m=1, map_id=0, shading=0
+m=2, map_id=0, shading=0
+m=3, map_id=0, shading=100
+m=4, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 0,  Shade3: 100,  Shade4:100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 0,  Shade3: 100,  Shade4:100
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=0
+m=12, map_id=14, shading=100
+m=13, map_id=13, shading=100
+m=14, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 0,  Shade3: 100,  Shade4:100
+m=15, map_id=21, shading=0
+m=16, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 0,  Shade3: 100,  Shade4:100
+m=17, map_id=16, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=1, shading=100
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=13, shading=100
+m=13, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=14, map_id=16, shading=0
+m=15, map_id=0, shading=0
+m=16, map_id=0, shading=100
+m=17, map_id=14, shading=100
+m=18, map_id=0, shading=100
+m=19, map_id=0, shading=0
+m=20, map_id=21, shading=0
+m=21, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=0
+m=8, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=13, shading=100
+m=13, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=14, map_id=16, shading=0
+m=15, map_id=0, shading=0
+m=16, map_id=0, shading=100
+m=17, map_id=14, shading=100
+m=18, map_id=0, shading=100
+m=19, map_id=0, shading=0
+m=20, map_id=21, shading=0
+m=21, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=100
+END
+START
+m=0, map_id=8, shading=0
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		ith point is closer than 3rd (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=100
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=14, shading=100
+m=15, map_id=21, shading=0
+m=16, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=100
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=100
+m=12, map_id=0, shading=0
+END
+START
+m=0, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=0, shading=100
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=0, shading=0
+m=5, map_id=0, shading=0
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=0, shading=100
+m=12, map_id=14, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=21, shading=0
+m=15, map_id=22, shading=100
+		3rd point is closer than ith (8-22)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 0,  Shade2: 100,  Shade3: 100,  Shade4:0
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=0
+END
+START
+m=0, map_id=15, shading=0
+	1 or 15
+		3rd point is closer than ith (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:100
+m=1, map_id=16, shading=0
+m=2, map_id=13, shading=100
+m=3, map_id=0, shading=0
+m=4, map_id=0, shading=100
+m=5, map_id=0, shading=100
+m=6, map_id=0, shading=0
+m=7, map_id=0, shading=0
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=100
+m=10, map_id=0, shading=0
+m=11, map_id=0, shading=0
+m=12, map_id=0, shading=100
+m=13, map_id=0, shading=0
+m=14, map_id=0, shading=0
+END
+START
+m=0, map_id=0, shading=100
+m=1, map_id=0, shading=0
+m=2, map_id=0, shading=100
+m=3, map_id=0, shading=100
+m=4, map_id=8, shading=0
+		3rd point is closer than ith (8-22)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:0
+m=5, map_id=0, shading=0
+m=6, map_id=1, shading=100
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:0
+m=7, map_id=0, shading=100
+m=8, map_id=0, shading=0
+m=9, map_id=0, shading=0
+m=10, map_id=0, shading=100
+m=11, map_id=13, shading=100
+m=12, map_id=15, shading=0
+	1 or 15
+		ith point is closer than 3rd (1-15)
+		Shade1: 100,  Shade2: 0,  Shade3: 0,  Shade4:0
+m=13, map_id=16, shading=0
+m=14, map_id=0, shading=0
+m=15, map_id=0, shading=0
+END

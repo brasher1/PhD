@@ -1,0 +1,784 @@
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=5.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=6.600000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=7.400000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=8.200000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.000000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=9.800000
+After Running Spot2D
+Running Spot2D again - gResolutionRadius=10.600000
+After Running Spot2D

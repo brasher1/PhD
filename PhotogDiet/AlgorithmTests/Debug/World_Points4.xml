@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!-- My World Points -->
+<WORLD-POINTS type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    20.25000000 0. 0. 0. 0. 0. 0. 11. 0. 0. 12.25000000 0. 1.25000000
+    12.25000000 0.</data></WORLD-POINTS>
+</opencv_storage>

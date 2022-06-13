@@ -1,0 +1,160 @@
+ellipse
+DELETE FLAG = 0
+x=50, y=1115
+min_x=23, min_y=1088
+max_x=78, max_y=1144
+total edge points=204
+Width=55, Height=56
+maxx=78, maxy=1144, minx=23, miny=1088
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=51, y=1024
+min_x=25, min_y=996
+max_x=79, max_y=1052
+total edge points=203
+Width=54, Height=56
+maxx=79, maxy=1052, minx=25, miny=996
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=59, y=666
+min_x=32, min_y=640
+max_x=85, max_y=694
+total edge points=188
+Width=53, Height=54
+maxx=85, maxy=694, minx=32, miny=640
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=72, y=329
+min_x=47, min_y=305
+max_x=99, max_y=355
+total edge points=188
+Width=52, Height=50
+maxx=99, maxy=355, minx=47, miny=305
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=76, y=246
+min_x=52, min_y=222
+max_x=102, max_y=271
+total edge points=182
+Width=50, Height=49
+maxx=102, maxy=271, minx=52, miny=222
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=161, y=243
+min_x=136, min_y=219
+max_x=187, max_y=269
+total edge points=186
+Width=51, Height=50
+maxx=187, maxy=269, minx=136, miny=219
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 1
+x=257, y=361
+min_x=201, min_y=202
+max_x=397, max_y=449
+total edge points=617
+Width=196, Height=247
+maxx=397, maxy=449, minx=201, miny=202
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=644, y=229
+min_x=618, min_y=204
+max_x=671, max_y=254
+total edge points=189
+Width=53, Height=50
+maxx=671, maxy=254, minx=618, miny=204
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1380, y=220
+min_x=1356, min_y=197
+max_x=1406, max_y=245
+total edge points=181
+Width=50, Height=48
+maxx=1406, maxy=245, minx=1356, miny=197
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1444, y=1074
+min_x=1418, min_y=1047
+max_x=1470, max_y=1102
+total edge points=195
+Width=52, Height=55
+maxx=1470, maxy=1102, minx=1418, miny=1047
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1463, y=220
+min_x=1439, min_y=196
+max_x=1488, max_y=244
+total edge points=182
+Width=49, Height=48
+maxx=1488, maxy=244, minx=1439, miny=196
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1470, y=301
+min_x=1445, min_y=278
+max_x=1495, max_y=326
+total edge points=181
+Width=50, Height=48
+maxx=1495, maxy=326, minx=1445, miny=278
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1499, y=632
+min_x=1475, min_y=606
+max_x=1525, max_y=658
+total edge points=185
+Width=50, Height=52
+maxx=1525, maxy=658, minx=1475, miny=606
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1524, y=978
+min_x=1499, min_y=952
+max_x=1550, max_y=1006
+total edge points=193
+Width=51, Height=54
+maxx=1550, maxy=1006, minx=1499, miny=952
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 0
+x=1530, y=1069
+min_x=1505, min_y=1042
+max_x=1556, max_y=1096
+total edge points=191
+Width=51, Height=54
+maxx=1556, maxy=1096, minx=1505, miny=1042
+Image_x=1600, Image_y=1200
+
+ellipse
+DELETE FLAG = 1
+x=232, y=615
+min_x=225, min_y=600
+max_x=246, max_y=628
+total edge points=81
+Width=21, Height=28
+maxx=246, maxy=628, minx=225, miny=600
+Image_x=1600, Image_y=1200
+

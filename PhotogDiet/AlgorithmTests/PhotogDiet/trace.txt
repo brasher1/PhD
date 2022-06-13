@@ -1,0 +1,8 @@
+i=0
+Inside foodItemID !=0:  pfNames[i].foodItemID=2657
+Calling Inner J-Loop
+Inside foodItemID=2657 i=j:  i=0, j=0
+Inside foodItemID=2657 i=j:  i=0, j=1
+Inside foodItemID=2657 i=j:  i=0, j=2
+i=1
+i=2

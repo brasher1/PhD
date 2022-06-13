@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!-- My inverse rotation matrix -->
+<ROTATION type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    5.16116619e-003 0.94629401 0.32326624 0.97325814 -0.07899557
+    0.21570416 0.22965613 0.31350815 -0.92139614</data></ROTATION>
+</opencv_storage>

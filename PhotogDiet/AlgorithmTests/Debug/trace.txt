@@ -1,0 +1,13 @@
+i=0
+Inside foodItemID !=0:  pfNames[i].foodItemID=1085
+Calling Inner J-Loop
+Inside foodItemID=1085 i=j:  i=0, j=0
+foodItemID's were different, 1085 != 1086
+Inside foodItemID=1085 i=j:  i=0, j=2
+i=1
+Inside foodItemID !=0:  pfNames[i].foodItemID=1086
+Calling Inner J-Loop
+foodItemID's were different, 1086 != 1085
+Inside foodItemID=1086 i=j:  i=1, j=1
+foodItemID's were different, 1086 != 0
+i=2

@@ -1,0 +1,1 @@
+X	Y	Z	Distance	BLOBPOINT 1	BLOBPOINT 2	BLOB 1	BLOB 2	Cam 1X	Cam 1Y	Cam 1Z	Dist to Cam

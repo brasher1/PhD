@@ -1,0 +1,240 @@
+****GAUS_LIST START****
+num_elements = 7388
+HEAD: num_points=9.000000
+TAIL: num_points=9.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5888
+HEAD: num_points=11.000000
+TAIL: num_points=14.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4907
+HEAD: num_points=13.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4241
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3821
+HEAD: num_points=17.000000
+TAIL: num_points=20.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3572
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3205
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 2901
+HEAD: num_points=21.000000
+TAIL: num_points=24.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 7423
+HEAD: num_points=9.000000
+TAIL: num_points=11.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 6033
+HEAD: num_points=11.000000
+TAIL: num_points=11.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5032
+HEAD: num_points=13.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4333
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3900
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3650
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3319
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3015
+HEAD: num_points=21.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 9444
+HEAD: num_points=9.000000
+TAIL: num_points=9.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 7557
+HEAD: num_points=11.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 6237
+HEAD: num_points=13.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5261
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4671
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4313
+HEAD: num_points=17.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3873
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3468
+HEAD: num_points=21.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 7388
+HEAD: num_points=9.000000
+TAIL: num_points=9.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5888
+HEAD: num_points=11.000000
+TAIL: num_points=14.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4907
+HEAD: num_points=13.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4241
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3821
+HEAD: num_points=17.000000
+TAIL: num_points=20.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3572
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3205
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 2901
+HEAD: num_points=21.000000
+TAIL: num_points=24.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 7423
+HEAD: num_points=9.000000
+TAIL: num_points=11.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 6033
+HEAD: num_points=11.000000
+TAIL: num_points=11.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5032
+HEAD: num_points=13.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4333
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3900
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3650
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3319
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3015
+HEAD: num_points=21.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 9444
+HEAD: num_points=9.000000
+TAIL: num_points=9.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 7557
+HEAD: num_points=11.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 6237
+HEAD: num_points=13.000000
+TAIL: num_points=13.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 5261
+HEAD: num_points=15.000000
+TAIL: num_points=15.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4671
+HEAD: num_points=17.000000
+TAIL: num_points=17.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 4313
+HEAD: num_points=17.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3873
+HEAD: num_points=19.000000
+TAIL: num_points=19.000000
+----END OF GAUS_LIST----
+****GAUS_LIST START****
+num_elements = 3468
+HEAD: num_points=21.000000
+TAIL: num_points=21.000000
+----END OF GAUS_LIST----

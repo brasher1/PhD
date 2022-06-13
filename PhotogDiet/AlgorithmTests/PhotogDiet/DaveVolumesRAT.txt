@@ -1,0 +1,1674 @@
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 1.922953
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.864174
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.877461
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.873163
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.855567
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.787084
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.924759
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.850895
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.924687
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.834851
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.844670
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.835629
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.514024
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.506981
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.865334
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.918917
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.907658
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.764166
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.848184
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.856500
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.772471
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.813772
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.889026
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.875857
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.775373
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.855119
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.802627
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.879460
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.907543
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.907057
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 1.833037
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.873107
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.831793
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.576796
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.888603
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.851057
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.929929
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.821349
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.847495
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.853884
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.888084
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.844041
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.925727
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.855484
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.804209
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.848688
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.859436
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.855100
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.593234
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.803311
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.838246
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.853202
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.845900
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.829474
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.832690
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.915304
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.895828
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.833702
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.502783
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.887321
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 1.585364
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.377287
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.482719
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.517278
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.586334
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.574929
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.514766
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.563378
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.450181
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.624834
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.432860
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.557696
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.617916
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.579421
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.566592
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.609190
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.538562
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.604664
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.608094
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.592059
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.441548
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.610164
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.476751
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.599197
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.511208
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.500843
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.550325
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.566953
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.445149
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.606634
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 0.963839
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 0.927701
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.907890
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.899759
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.893545
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.863806
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.951481
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.910401
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.840313
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.945352
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.891551
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.895838
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.913258
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.911907
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.904172
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.890964
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.899030
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.953297
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.871220
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.919672
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.959659
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.923860
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.817293
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.826618
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.947951
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.945406
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.916144
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.954776
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.897345
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 0.939710
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 1.884694
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.807456
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.815603
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.820575
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.845923
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.858876
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.598758
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.860171
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.508873
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.810643
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.882598
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.877058
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.853068
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.848036
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.854044
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.497559
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.926472
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.540246
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.873101
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.453558
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.920414
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.859204
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.828631
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.799504
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.838424
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.832499
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.880352
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.824962
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.873086
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.557611
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2538, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1184, SampleSize=30
+DJB!!!Volume = 1.815221
+Sample VOLUME[i]=0.000000
+DJB!!!Volume = 1.785037
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.844085
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.872079
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.919378
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.851333
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.836427
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.849429
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.887934
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.836323
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.890129
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.799226
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.793980
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.879809
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.925372
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.868909
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.575043
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.872077
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.840222
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.874133
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.897998
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.810564
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.893137
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.900066
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.886652
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.835518
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.913496
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.797374
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.867177
+Sample VOLUME[i]=-1.#IND00
+DJB!!!Volume = 1.889899
+Sample VOLUME[i]=-1.#IND00
+ADDING VALUE Average=0.00000000, Volume[i]=0.000000
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+ADDING VALUE Average=-1.#IND0000, Volume[i]=-1.#IND00
+BEFORE Average=-1.#IND0000
+VolumeAverage=-1.#IND0000
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 1.911070
+Sample VOLUME[i]=1.911070
+DJB!!!Volume = 1.591196
+Sample VOLUME[i]=1.591196
+DJB!!!Volume = 1.898753
+Sample VOLUME[i]=1.898753
+DJB!!!Volume = 1.845016
+Sample VOLUME[i]=1.845016
+DJB!!!Volume = 1.855011
+Sample VOLUME[i]=1.855011
+DJB!!!Volume = 1.515245
+Sample VOLUME[i]=1.515245
+DJB!!!Volume = 1.909463
+Sample VOLUME[i]=1.909463
+DJB!!!Volume = 1.607682
+Sample VOLUME[i]=1.607682
+DJB!!!Volume = 1.810029
+Sample VOLUME[i]=1.810029
+DJB!!!Volume = 1.838163
+Sample VOLUME[i]=1.838163
+DJB!!!Volume = 1.797487
+Sample VOLUME[i]=1.797487
+DJB!!!Volume = 1.896561
+Sample VOLUME[i]=1.896561
+DJB!!!Volume = 1.849316
+Sample VOLUME[i]=1.849316
+DJB!!!Volume = 1.877132
+Sample VOLUME[i]=1.877132
+DJB!!!Volume = 1.842371
+Sample VOLUME[i]=1.842371
+DJB!!!Volume = 1.815964
+Sample VOLUME[i]=1.815964
+DJB!!!Volume = 1.795749
+Sample VOLUME[i]=1.795749
+DJB!!!Volume = 1.584356
+Sample VOLUME[i]=1.584356
+DJB!!!Volume = 1.847033
+Sample VOLUME[i]=1.847033
+DJB!!!Volume = 1.869132
+Sample VOLUME[i]=1.869132
+DJB!!!Volume = 1.860303
+Sample VOLUME[i]=1.860303
+DJB!!!Volume = 1.863978
+Sample VOLUME[i]=1.863978
+DJB!!!Volume = 1.905605
+Sample VOLUME[i]=1.905605
+DJB!!!Volume = 1.872599
+Sample VOLUME[i]=1.872599
+DJB!!!Volume = 1.868611
+Sample VOLUME[i]=1.868611
+DJB!!!Volume = 1.557599
+Sample VOLUME[i]=1.557599
+DJB!!!Volume = 1.896561
+Sample VOLUME[i]=1.896561
+DJB!!!Volume = 1.554885
+Sample VOLUME[i]=1.554885
+DJB!!!Volume = 1.888498
+Sample VOLUME[i]=1.888498
+DJB!!!Volume = 1.799923
+Sample VOLUME[i]=1.799923
+ADDING VALUE Average=1.91106975, Volume[i]=1.911070
+ADDING VALUE Average=3.50226593, Volume[i]=1.591196
+ADDING VALUE Average=5.40101862, Volume[i]=1.898753
+ADDING VALUE Average=7.24603462, Volume[i]=1.845016
+ADDING VALUE Average=9.10104561, Volume[i]=1.855011
+ADDING VALUE Average=10.61629009, Volume[i]=1.515245
+ADDING VALUE Average=12.52575302, Volume[i]=1.909463
+ADDING VALUE Average=14.13343430, Volume[i]=1.607682
+ADDING VALUE Average=15.94346333, Volume[i]=1.810029
+ADDING VALUE Average=17.78162575, Volume[i]=1.838163
+ADDING VALUE Average=19.57911301, Volume[i]=1.797487
+ADDING VALUE Average=21.47567368, Volume[i]=1.896561
+ADDING VALUE Average=23.32498932, Volume[i]=1.849316
+ADDING VALUE Average=25.20212173, Volume[i]=1.877132
+ADDING VALUE Average=27.04449272, Volume[i]=1.842371
+ADDING VALUE Average=28.86045647, Volume[i]=1.815964
+ADDING VALUE Average=30.65620613, Volume[i]=1.795749
+ADDING VALUE Average=32.24056244, Volume[i]=1.584356
+ADDING VALUE Average=34.08759689, Volume[i]=1.847033
+ADDING VALUE Average=35.95672989, Volume[i]=1.869132
+ADDING VALUE Average=37.81703186, Volume[i]=1.860303
+ADDING VALUE Average=39.68101120, Volume[i]=1.863978
+ADDING VALUE Average=41.58661652, Volume[i]=1.905605
+ADDING VALUE Average=43.45921707, Volume[i]=1.872599
+ADDING VALUE Average=45.32782745, Volume[i]=1.868611
+ADDING VALUE Average=46.88542557, Volume[i]=1.557599
+ADDING VALUE Average=48.78198624, Volume[i]=1.896561
+ADDING VALUE Average=50.33687210, Volume[i]=1.554885
+ADDING VALUE Average=52.22536850, Volume[i]=1.888498
+ADDING VALUE Average=54.02529144, Volume[i]=1.799923
+BEFORE Average=54.02529144
+VolumeAverage=1.80084300
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 1.499043
+Sample VOLUME[i]=1.499043
+DJB!!!Volume = 1.910241
+Sample VOLUME[i]=1.910241
+DJB!!!Volume = 1.840733
+Sample VOLUME[i]=1.840733
+DJB!!!Volume = 1.893125
+Sample VOLUME[i]=1.893125
+DJB!!!Volume = 1.901281
+Sample VOLUME[i]=1.901281
+DJB!!!Volume = 1.838743
+Sample VOLUME[i]=1.838743
+DJB!!!Volume = 1.855129
+Sample VOLUME[i]=1.855129
+DJB!!!Volume = 1.851269
+Sample VOLUME[i]=1.851269
+DJB!!!Volume = 1.901654
+Sample VOLUME[i]=1.901654
+DJB!!!Volume = 1.835269
+Sample VOLUME[i]=1.835269
+DJB!!!Volume = 1.923285
+Sample VOLUME[i]=1.923285
+DJB!!!Volume = 1.878187
+Sample VOLUME[i]=1.878187
+DJB!!!Volume = 1.888241
+Sample VOLUME[i]=1.888241
+DJB!!!Volume = 1.877066
+Sample VOLUME[i]=1.877066
+DJB!!!Volume = 1.838465
+Sample VOLUME[i]=1.838465
+DJB!!!Volume = 1.803721
+Sample VOLUME[i]=1.803721
+DJB!!!Volume = 1.912008
+Sample VOLUME[i]=1.912008
+DJB!!!Volume = 1.842823
+Sample VOLUME[i]=1.842823
+DJB!!!Volume = 1.919945
+Sample VOLUME[i]=1.919945
+DJB!!!Volume = 1.795863
+Sample VOLUME[i]=1.795863
+DJB!!!Volume = 1.791762
+Sample VOLUME[i]=1.791762
+DJB!!!Volume = 1.840608
+Sample VOLUME[i]=1.840608
+DJB!!!Volume = 1.828206
+Sample VOLUME[i]=1.828206
+DJB!!!Volume = 1.906884
+Sample VOLUME[i]=1.906884
+DJB!!!Volume = 1.921796
+Sample VOLUME[i]=1.921796
+DJB!!!Volume = 1.933198
+Sample VOLUME[i]=1.933198
+DJB!!!Volume = 1.920790
+Sample VOLUME[i]=1.920790
+DJB!!!Volume = 1.916597
+Sample VOLUME[i]=1.916597
+DJB!!!Volume = 1.897321
+Sample VOLUME[i]=1.897321
+DJB!!!Volume = 1.790791
+Sample VOLUME[i]=1.790791
+ADDING VALUE Average=1.49904299, Volume[i]=1.499043
+ADDING VALUE Average=3.40928364, Volume[i]=1.910241
+ADDING VALUE Average=5.25001621, Volume[i]=1.840733
+ADDING VALUE Average=7.14314079, Volume[i]=1.893125
+ADDING VALUE Average=9.04442215, Volume[i]=1.901281
+ADDING VALUE Average=10.88316536, Volume[i]=1.838743
+ADDING VALUE Average=12.73829460, Volume[i]=1.855129
+ADDING VALUE Average=14.58956337, Volume[i]=1.851269
+ADDING VALUE Average=16.49121666, Volume[i]=1.901654
+ADDING VALUE Average=18.32648468, Volume[i]=1.835269
+ADDING VALUE Average=20.24976921, Volume[i]=1.923285
+ADDING VALUE Average=22.12795639, Volume[i]=1.878187
+ADDING VALUE Average=24.01619720, Volume[i]=1.888241
+ADDING VALUE Average=25.89326286, Volume[i]=1.877066
+ADDING VALUE Average=27.73172760, Volume[i]=1.838465
+ADDING VALUE Average=29.53544807, Volume[i]=1.803721
+ADDING VALUE Average=31.44745636, Volume[i]=1.912008
+ADDING VALUE Average=33.29027939, Volume[i]=1.842823
+ADDING VALUE Average=35.21022415, Volume[i]=1.919945
+ADDING VALUE Average=37.00608826, Volume[i]=1.795863
+ADDING VALUE Average=38.79785156, Volume[i]=1.791762
+ADDING VALUE Average=40.63845825, Volume[i]=1.840608
+ADDING VALUE Average=42.46666336, Volume[i]=1.828206
+ADDING VALUE Average=44.37354660, Volume[i]=1.906884
+ADDING VALUE Average=46.29534149, Volume[i]=1.921796
+ADDING VALUE Average=48.22853851, Volume[i]=1.933198
+ADDING VALUE Average=50.14933014, Volume[i]=1.920790
+ADDING VALUE Average=52.06592941, Volume[i]=1.916597
+ADDING VALUE Average=53.96324921, Volume[i]=1.897321
+ADDING VALUE Average=55.75403976, Volume[i]=1.790791
+BEFORE Average=55.75403976
+VolumeAverage=1.85846794
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 1.606895
+Sample VOLUME[i]=1.606895
+DJB!!!Volume = 1.468189
+Sample VOLUME[i]=1.468189
+DJB!!!Volume = 1.610971
+Sample VOLUME[i]=1.610971
+DJB!!!Volume = 1.463194
+Sample VOLUME[i]=1.463194
+DJB!!!Volume = 1.569475
+Sample VOLUME[i]=1.569475
+DJB!!!Volume = 1.562600
+Sample VOLUME[i]=1.562600
+DJB!!!Volume = 1.516901
+Sample VOLUME[i]=1.516901
+DJB!!!Volume = 1.490508
+Sample VOLUME[i]=1.490508
+DJB!!!Volume = 1.551220
+Sample VOLUME[i]=1.551220
+DJB!!!Volume = 1.579979
+Sample VOLUME[i]=1.579979
+DJB!!!Volume = 1.595728
+Sample VOLUME[i]=1.595728
+DJB!!!Volume = 1.596621
+Sample VOLUME[i]=1.596621
+DJB!!!Volume = 1.613419
+Sample VOLUME[i]=1.613419
+DJB!!!Volume = 1.561405
+Sample VOLUME[i]=1.561405
+DJB!!!Volume = 1.592708
+Sample VOLUME[i]=1.592708
+DJB!!!Volume = 1.597709
+Sample VOLUME[i]=1.597709
+DJB!!!Volume = 1.514492
+Sample VOLUME[i]=1.514492
+DJB!!!Volume = 1.401034
+Sample VOLUME[i]=1.401034
+DJB!!!Volume = 1.462403
+Sample VOLUME[i]=1.462403
+DJB!!!Volume = 1.480055
+Sample VOLUME[i]=1.480055
+DJB!!!Volume = 1.488310
+Sample VOLUME[i]=1.488310
+DJB!!!Volume = 1.554010
+Sample VOLUME[i]=1.554010
+DJB!!!Volume = 1.566721
+Sample VOLUME[i]=1.566721
+DJB!!!Volume = 1.548648
+Sample VOLUME[i]=1.548648
+DJB!!!Volume = 1.580165
+Sample VOLUME[i]=1.580165
+DJB!!!Volume = 1.569264
+Sample VOLUME[i]=1.569264
+DJB!!!Volume = 1.615479
+Sample VOLUME[i]=1.615479
+DJB!!!Volume = 1.529689
+Sample VOLUME[i]=1.529689
+DJB!!!Volume = 1.569780
+Sample VOLUME[i]=1.569780
+DJB!!!Volume = 1.604727
+Sample VOLUME[i]=1.604727
+ADDING VALUE Average=1.60689521, Volume[i]=1.606895
+ADDING VALUE Average=3.07508469, Volume[i]=1.468189
+ADDING VALUE Average=4.68605518, Volume[i]=1.610971
+ADDING VALUE Average=6.14924908, Volume[i]=1.463194
+ADDING VALUE Average=7.71872377, Volume[i]=1.569475
+ADDING VALUE Average=9.28132439, Volume[i]=1.562600
+ADDING VALUE Average=10.79822540, Volume[i]=1.516901
+ADDING VALUE Average=12.28873348, Volume[i]=1.490508
+ADDING VALUE Average=13.83995342, Volume[i]=1.551220
+ADDING VALUE Average=15.41993237, Volume[i]=1.579979
+ADDING VALUE Average=17.01566124, Volume[i]=1.595728
+ADDING VALUE Average=18.61228180, Volume[i]=1.596621
+ADDING VALUE Average=20.22570038, Volume[i]=1.613419
+ADDING VALUE Average=21.78710556, Volume[i]=1.561405
+ADDING VALUE Average=23.37981415, Volume[i]=1.592708
+ADDING VALUE Average=24.97752380, Volume[i]=1.597709
+ADDING VALUE Average=26.49201584, Volume[i]=1.514492
+ADDING VALUE Average=27.89304924, Volume[i]=1.401034
+ADDING VALUE Average=29.35545158, Volume[i]=1.462403
+ADDING VALUE Average=30.83550644, Volume[i]=1.480055
+ADDING VALUE Average=32.32381439, Volume[i]=1.488310
+ADDING VALUE Average=33.87782288, Volume[i]=1.554010
+ADDING VALUE Average=35.44454575, Volume[i]=1.566721
+ADDING VALUE Average=36.99319458, Volume[i]=1.548648
+ADDING VALUE Average=38.57336044, Volume[i]=1.580165
+ADDING VALUE Average=40.14262390, Volume[i]=1.569264
+ADDING VALUE Average=41.75810242, Volume[i]=1.615479
+ADDING VALUE Average=43.28779221, Volume[i]=1.529689
+ADDING VALUE Average=44.85757446, Volume[i]=1.569780
+ADDING VALUE Average=46.46230316, Volume[i]=1.604727
+BEFORE Average=46.46230316
+VolumeAverage=1.54874349
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 0.946786
+Sample VOLUME[i]=0.946786
+DJB!!!Volume = 0.849810
+Sample VOLUME[i]=0.849810
+DJB!!!Volume = 0.957893
+Sample VOLUME[i]=0.957893
+DJB!!!Volume = 0.865006
+Sample VOLUME[i]=0.865006
+DJB!!!Volume = 0.864300
+Sample VOLUME[i]=0.864300
+DJB!!!Volume = 0.928188
+Sample VOLUME[i]=0.928188
+DJB!!!Volume = 0.918072
+Sample VOLUME[i]=0.918072
+DJB!!!Volume = 0.913627
+Sample VOLUME[i]=0.913627
+DJB!!!Volume = 0.913842
+Sample VOLUME[i]=0.913842
+DJB!!!Volume = 0.810639
+Sample VOLUME[i]=0.810639
+DJB!!!Volume = 0.887567
+Sample VOLUME[i]=0.887567
+DJB!!!Volume = 0.968463
+Sample VOLUME[i]=0.968463
+DJB!!!Volume = 0.913422
+Sample VOLUME[i]=0.913422
+DJB!!!Volume = 0.961849
+Sample VOLUME[i]=0.961849
+DJB!!!Volume = 0.804042
+Sample VOLUME[i]=0.804042
+DJB!!!Volume = 0.889573
+Sample VOLUME[i]=0.889573
+DJB!!!Volume = 0.783355
+Sample VOLUME[i]=0.783355
+DJB!!!Volume = 0.890102
+Sample VOLUME[i]=0.890102
+DJB!!!Volume = 0.841443
+Sample VOLUME[i]=0.841443
+DJB!!!Volume = 0.920177
+Sample VOLUME[i]=0.920177
+DJB!!!Volume = 0.962130
+Sample VOLUME[i]=0.962130
+DJB!!!Volume = 0.867216
+Sample VOLUME[i]=0.867216
+DJB!!!Volume = 0.898052
+Sample VOLUME[i]=0.898052
+DJB!!!Volume = 0.901372
+Sample VOLUME[i]=0.901372
+DJB!!!Volume = 0.957455
+Sample VOLUME[i]=0.957455
+DJB!!!Volume = 0.901622
+Sample VOLUME[i]=0.901622
+DJB!!!Volume = 0.931957
+Sample VOLUME[i]=0.931957
+DJB!!!Volume = 0.934780
+Sample VOLUME[i]=0.934780
+DJB!!!Volume = 0.837371
+Sample VOLUME[i]=0.837371
+DJB!!!Volume = 0.851587
+Sample VOLUME[i]=0.851587
+ADDING VALUE Average=0.94678581, Volume[i]=0.946786
+ADDING VALUE Average=1.79659557, Volume[i]=0.849810
+ADDING VALUE Average=2.75448895, Volume[i]=0.957893
+ADDING VALUE Average=3.61949444, Volume[i]=0.865006
+ADDING VALUE Average=4.48379469, Volume[i]=0.864300
+ADDING VALUE Average=5.41198254, Volume[i]=0.928188
+ADDING VALUE Average=6.33005428, Volume[i]=0.918072
+ADDING VALUE Average=7.24368143, Volume[i]=0.913627
+ADDING VALUE Average=8.15752316, Volume[i]=0.913842
+ADDING VALUE Average=8.96816254, Volume[i]=0.810639
+ADDING VALUE Average=9.85573006, Volume[i]=0.887567
+ADDING VALUE Average=10.82419300, Volume[i]=0.968463
+ADDING VALUE Average=11.73761463, Volume[i]=0.913422
+ADDING VALUE Average=12.69946384, Volume[i]=0.961849
+ADDING VALUE Average=13.50350571, Volume[i]=0.804042
+ADDING VALUE Average=14.39307880, Volume[i]=0.889573
+ADDING VALUE Average=15.17643356, Volume[i]=0.783355
+ADDING VALUE Average=16.06653595, Volume[i]=0.890102
+ADDING VALUE Average=16.90797806, Volume[i]=0.841443
+ADDING VALUE Average=17.82815552, Volume[i]=0.920177
+ADDING VALUE Average=18.79028511, Volume[i]=0.962130
+ADDING VALUE Average=19.65750122, Volume[i]=0.867216
+ADDING VALUE Average=20.55555344, Volume[i]=0.898052
+ADDING VALUE Average=21.45692635, Volume[i]=0.901372
+ADDING VALUE Average=22.41438103, Volume[i]=0.957455
+ADDING VALUE Average=23.31600380, Volume[i]=0.901622
+ADDING VALUE Average=24.24796104, Volume[i]=0.931957
+ADDING VALUE Average=25.18274117, Volume[i]=0.934780
+ADDING VALUE Average=26.02011299, Volume[i]=0.837371
+ADDING VALUE Average=26.87170029, Volume[i]=0.851587
+BEFORE Average=26.87170029
+VolumeAverage=0.89572334
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 1.910471
+Sample VOLUME[i]=1.910471
+DJB!!!Volume = 1.875744
+Sample VOLUME[i]=1.875744
+DJB!!!Volume = 1.862159
+Sample VOLUME[i]=1.862159
+DJB!!!Volume = 1.802868
+Sample VOLUME[i]=1.802868
+DJB!!!Volume = 1.846300
+Sample VOLUME[i]=1.846300
+DJB!!!Volume = 1.823794
+Sample VOLUME[i]=1.823794
+DJB!!!Volume = 1.792363
+Sample VOLUME[i]=1.792363
+DJB!!!Volume = 1.887425
+Sample VOLUME[i]=1.887425
+DJB!!!Volume = 1.826227
+Sample VOLUME[i]=1.826227
+DJB!!!Volume = 1.819652
+Sample VOLUME[i]=1.819652
+DJB!!!Volume = 1.574252
+Sample VOLUME[i]=1.574252
+DJB!!!Volume = 1.896022
+Sample VOLUME[i]=1.896022
+DJB!!!Volume = 1.818503
+Sample VOLUME[i]=1.818503
+DJB!!!Volume = 1.811191
+Sample VOLUME[i]=1.811191
+DJB!!!Volume = 1.817217
+Sample VOLUME[i]=1.817217
+DJB!!!Volume = 1.861016
+Sample VOLUME[i]=1.861016
+DJB!!!Volume = 1.893933
+Sample VOLUME[i]=1.893933
+DJB!!!Volume = 1.818905
+Sample VOLUME[i]=1.818905
+DJB!!!Volume = 1.557637
+Sample VOLUME[i]=1.557637
+DJB!!!Volume = 1.857832
+Sample VOLUME[i]=1.857832
+DJB!!!Volume = 1.827262
+Sample VOLUME[i]=1.827262
+DJB!!!Volume = 1.896824
+Sample VOLUME[i]=1.896824
+DJB!!!Volume = 1.906120
+Sample VOLUME[i]=1.906120
+DJB!!!Volume = 1.878568
+Sample VOLUME[i]=1.878568
+DJB!!!Volume = 1.797462
+Sample VOLUME[i]=1.797462
+DJB!!!Volume = 1.819959
+Sample VOLUME[i]=1.819959
+DJB!!!Volume = 1.850697
+Sample VOLUME[i]=1.850697
+DJB!!!Volume = 1.914324
+Sample VOLUME[i]=1.914324
+DJB!!!Volume = 1.900318
+Sample VOLUME[i]=1.900318
+DJB!!!Volume = 1.865357
+Sample VOLUME[i]=1.865357
+ADDING VALUE Average=1.91047084, Volume[i]=1.910471
+ADDING VALUE Average=3.78621483, Volume[i]=1.875744
+ADDING VALUE Average=5.64837360, Volume[i]=1.862159
+ADDING VALUE Average=7.45124102, Volume[i]=1.802868
+ADDING VALUE Average=9.29754066, Volume[i]=1.846300
+ADDING VALUE Average=11.12133503, Volume[i]=1.823794
+ADDING VALUE Average=12.91369820, Volume[i]=1.792363
+ADDING VALUE Average=14.80112362, Volume[i]=1.887425
+ADDING VALUE Average=16.62734985, Volume[i]=1.826227
+ADDING VALUE Average=18.44700241, Volume[i]=1.819652
+ADDING VALUE Average=20.02125359, Volume[i]=1.574252
+ADDING VALUE Average=21.91727448, Volume[i]=1.896022
+ADDING VALUE Average=23.73577881, Volume[i]=1.818503
+ADDING VALUE Average=25.54697037, Volume[i]=1.811191
+ADDING VALUE Average=27.36418724, Volume[i]=1.817217
+ADDING VALUE Average=29.22520256, Volume[i]=1.861016
+ADDING VALUE Average=31.11913490, Volume[i]=1.893933
+ADDING VALUE Average=32.93804169, Volume[i]=1.818905
+ADDING VALUE Average=34.49567795, Volume[i]=1.557637
+ADDING VALUE Average=36.35350800, Volume[i]=1.857832
+ADDING VALUE Average=38.18077087, Volume[i]=1.827262
+ADDING VALUE Average=40.07759476, Volume[i]=1.896824
+ADDING VALUE Average=41.98371506, Volume[i]=1.906120
+ADDING VALUE Average=43.86228180, Volume[i]=1.878568
+ADDING VALUE Average=45.65974426, Volume[i]=1.797462
+ADDING VALUE Average=47.47970200, Volume[i]=1.819959
+ADDING VALUE Average=49.33039856, Volume[i]=1.850697
+ADDING VALUE Average=51.24472427, Volume[i]=1.914324
+ADDING VALUE Average=53.14504242, Volume[i]=1.900318
+ADDING VALUE Average=55.01039886, Volume[i]=1.865357
+BEFORE Average=55.01039886
+VolumeAverage=1.83367991
+FOOD ITEM ID = 2539, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1185, SampleSize=30
+DJB!!!Volume = 1.831741
+Sample VOLUME[i]=1.831741
+DJB!!!Volume = 1.835648
+Sample VOLUME[i]=1.835648
+DJB!!!Volume = 1.890866
+Sample VOLUME[i]=1.890866
+DJB!!!Volume = 1.834253
+Sample VOLUME[i]=1.834253
+DJB!!!Volume = 1.883153
+Sample VOLUME[i]=1.883153
+DJB!!!Volume = 1.748355
+Sample VOLUME[i]=1.748355
+DJB!!!Volume = 1.856811
+Sample VOLUME[i]=1.856811
+DJB!!!Volume = 1.809333
+Sample VOLUME[i]=1.809333
+DJB!!!Volume = 1.905430
+Sample VOLUME[i]=1.905430
+DJB!!!Volume = 1.895033
+Sample VOLUME[i]=1.895033
+DJB!!!Volume = 1.862564
+Sample VOLUME[i]=1.862564
+DJB!!!Volume = 1.903752
+Sample VOLUME[i]=1.903752
+DJB!!!Volume = 1.873232
+Sample VOLUME[i]=1.873232
+DJB!!!Volume = 1.862514
+Sample VOLUME[i]=1.862514
+DJB!!!Volume = 1.799512
+Sample VOLUME[i]=1.799512
+DJB!!!Volume = 1.826493
+Sample VOLUME[i]=1.826493
+DJB!!!Volume = 1.862606
+Sample VOLUME[i]=1.862606
+DJB!!!Volume = 1.918307
+Sample VOLUME[i]=1.918307
+DJB!!!Volume = 1.901685
+Sample VOLUME[i]=1.901685
+DJB!!!Volume = 1.909354
+Sample VOLUME[i]=1.909354
+DJB!!!Volume = 1.920979
+Sample VOLUME[i]=1.920979
+DJB!!!Volume = 1.843949
+Sample VOLUME[i]=1.843949
+DJB!!!Volume = 1.881491
+Sample VOLUME[i]=1.881491
+DJB!!!Volume = 1.907208
+Sample VOLUME[i]=1.907208
+DJB!!!Volume = 1.832368
+Sample VOLUME[i]=1.832368
+DJB!!!Volume = 1.899706
+Sample VOLUME[i]=1.899706
+DJB!!!Volume = 1.847131
+Sample VOLUME[i]=1.847131
+DJB!!!Volume = 1.919674
+Sample VOLUME[i]=1.919674
+DJB!!!Volume = 1.807893
+Sample VOLUME[i]=1.807893
+DJB!!!Volume = 1.786020
+Sample VOLUME[i]=1.786020
+ADDING VALUE Average=1.83174074, Volume[i]=1.831741
+ADDING VALUE Average=3.66738892, Volume[i]=1.835648
+ADDING VALUE Average=5.55825424, Volume[i]=1.890866
+ADDING VALUE Average=7.39250755, Volume[i]=1.834253
+ADDING VALUE Average=9.27566051, Volume[i]=1.883153
+ADDING VALUE Average=11.02401543, Volume[i]=1.748355
+ADDING VALUE Average=12.88082600, Volume[i]=1.856811
+ADDING VALUE Average=14.69015980, Volume[i]=1.809333
+ADDING VALUE Average=16.59558868, Volume[i]=1.905430
+ADDING VALUE Average=18.49062157, Volume[i]=1.895033
+ADDING VALUE Average=20.35318565, Volume[i]=1.862564
+ADDING VALUE Average=22.25693703, Volume[i]=1.903752
+ADDING VALUE Average=24.13016891, Volume[i]=1.873232
+ADDING VALUE Average=25.99268341, Volume[i]=1.862514
+ADDING VALUE Average=27.79219437, Volume[i]=1.799512
+ADDING VALUE Average=29.61868668, Volume[i]=1.826493
+ADDING VALUE Average=31.48129272, Volume[i]=1.862606
+ADDING VALUE Average=33.39960098, Volume[i]=1.918307
+ADDING VALUE Average=35.30128479, Volume[i]=1.901685
+ADDING VALUE Average=37.21063995, Volume[i]=1.909354
+ADDING VALUE Average=39.13161850, Volume[i]=1.920979
+ADDING VALUE Average=40.97556686, Volume[i]=1.843949
+ADDING VALUE Average=42.85705566, Volume[i]=1.881491
+ADDING VALUE Average=44.76426315, Volume[i]=1.907208
+ADDING VALUE Average=46.59663010, Volume[i]=1.832368
+ADDING VALUE Average=48.49633789, Volume[i]=1.899706
+ADDING VALUE Average=50.34346771, Volume[i]=1.847131
+ADDING VALUE Average=52.26314163, Volume[i]=1.919674
+ADDING VALUE Average=54.07103348, Volume[i]=1.807893
+ADDING VALUE Average=55.85705185, Volume[i]=1.786020
+BEFORE Average=55.85705185
+VolumeAverage=1.86190176
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 1.837582
+Sample VOLUME[i]=1.837582
+DJB!!!Volume = 1.849099
+Sample VOLUME[i]=1.849099
+DJB!!!Volume = 1.539902
+Sample VOLUME[i]=1.539902
+DJB!!!Volume = 1.837793
+Sample VOLUME[i]=1.837793
+DJB!!!Volume = 1.815685
+Sample VOLUME[i]=1.815685
+DJB!!!Volume = 1.884140
+Sample VOLUME[i]=1.884140
+DJB!!!Volume = 1.627180
+Sample VOLUME[i]=1.627180
+DJB!!!Volume = 1.798545
+Sample VOLUME[i]=1.798545
+DJB!!!Volume = 1.898200
+Sample VOLUME[i]=1.898200
+DJB!!!Volume = 1.889043
+Sample VOLUME[i]=1.889043
+DJB!!!Volume = 1.892318
+Sample VOLUME[i]=1.892318
+DJB!!!Volume = 1.877362
+Sample VOLUME[i]=1.877362
+DJB!!!Volume = 1.852956
+Sample VOLUME[i]=1.852956
+DJB!!!Volume = 1.884933
+Sample VOLUME[i]=1.884933
+DJB!!!Volume = 1.898838
+Sample VOLUME[i]=1.898838
+DJB!!!Volume = 1.883801
+Sample VOLUME[i]=1.883801
+DJB!!!Volume = 1.812645
+Sample VOLUME[i]=1.812645
+DJB!!!Volume = 1.816304
+Sample VOLUME[i]=1.816304
+DJB!!!Volume = 1.819004
+Sample VOLUME[i]=1.819004
+DJB!!!Volume = 1.831753
+Sample VOLUME[i]=1.831753
+DJB!!!Volume = 1.902661
+Sample VOLUME[i]=1.902661
+DJB!!!Volume = 1.789095
+Sample VOLUME[i]=1.789095
+DJB!!!Volume = 1.933373
+Sample VOLUME[i]=1.933373
+DJB!!!Volume = 1.884010
+Sample VOLUME[i]=1.884010
+DJB!!!Volume = 1.859816
+Sample VOLUME[i]=1.859816
+DJB!!!Volume = 1.917978
+Sample VOLUME[i]=1.917978
+DJB!!!Volume = 1.799944
+Sample VOLUME[i]=1.799944
+DJB!!!Volume = 1.854731
+Sample VOLUME[i]=1.854731
+DJB!!!Volume = 1.890999
+Sample VOLUME[i]=1.890999
+DJB!!!Volume = 1.826362
+Sample VOLUME[i]=1.826362
+ADDING VALUE Average=1.83758199, Volume[i]=1.837582
+ADDING VALUE Average=3.68668079, Volume[i]=1.849099
+ADDING VALUE Average=5.22658300, Volume[i]=1.539902
+ADDING VALUE Average=7.06437540, Volume[i]=1.837793
+ADDING VALUE Average=8.88006020, Volume[i]=1.815685
+ADDING VALUE Average=10.76420021, Volume[i]=1.884140
+ADDING VALUE Average=12.39138031, Volume[i]=1.627180
+ADDING VALUE Average=14.18992615, Volume[i]=1.798545
+ADDING VALUE Average=16.08812523, Volume[i]=1.898200
+ADDING VALUE Average=17.97716713, Volume[i]=1.889043
+ADDING VALUE Average=19.86948395, Volume[i]=1.892318
+ADDING VALUE Average=21.74684525, Volume[i]=1.877362
+ADDING VALUE Average=23.59980011, Volume[i]=1.852956
+ADDING VALUE Average=25.48473358, Volume[i]=1.884933
+ADDING VALUE Average=27.38357162, Volume[i]=1.898838
+ADDING VALUE Average=29.26737213, Volume[i]=1.883801
+ADDING VALUE Average=31.08001709, Volume[i]=1.812645
+ADDING VALUE Average=32.89632034, Volume[i]=1.816304
+ADDING VALUE Average=34.71532440, Volume[i]=1.819004
+ADDING VALUE Average=36.54707718, Volume[i]=1.831753
+ADDING VALUE Average=38.44973755, Volume[i]=1.902661
+ADDING VALUE Average=40.23883057, Volume[i]=1.789095
+ADDING VALUE Average=42.17220306, Volume[i]=1.933373
+ADDING VALUE Average=44.05621338, Volume[i]=1.884010
+ADDING VALUE Average=45.91603088, Volume[i]=1.859816
+ADDING VALUE Average=47.83400726, Volume[i]=1.917978
+ADDING VALUE Average=49.63394928, Volume[i]=1.799944
+ADDING VALUE Average=51.48868179, Volume[i]=1.854731
+ADDING VALUE Average=53.37968063, Volume[i]=1.890999
+ADDING VALUE Average=55.20604324, Volume[i]=1.826362
+BEFORE Average=55.20604324
+VolumeAverage=1.84020150
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 1.882070
+Sample VOLUME[i]=1.882070
+DJB!!!Volume = 1.871945
+Sample VOLUME[i]=1.871945
+DJB!!!Volume = 1.815428
+Sample VOLUME[i]=1.815428
+DJB!!!Volume = 1.861458
+Sample VOLUME[i]=1.861458
+DJB!!!Volume = 1.830782
+Sample VOLUME[i]=1.830782
+DJB!!!Volume = 1.884640
+Sample VOLUME[i]=1.884640
+DJB!!!Volume = 1.805503
+Sample VOLUME[i]=1.805503
+DJB!!!Volume = 1.924399
+Sample VOLUME[i]=1.924399
+DJB!!!Volume = 1.720306
+Sample VOLUME[i]=1.720306
+DJB!!!Volume = 1.893230
+Sample VOLUME[i]=1.893230
+DJB!!!Volume = 1.920432
+Sample VOLUME[i]=1.920432
+DJB!!!Volume = 1.560375
+Sample VOLUME[i]=1.560375
+DJB!!!Volume = 1.860763
+Sample VOLUME[i]=1.860763
+DJB!!!Volume = 1.918819
+Sample VOLUME[i]=1.918819
+DJB!!!Volume = 1.905042
+Sample VOLUME[i]=1.905042
+DJB!!!Volume = 1.829561
+Sample VOLUME[i]=1.829561
+DJB!!!Volume = 1.813835
+Sample VOLUME[i]=1.813835
+DJB!!!Volume = 1.873327
+Sample VOLUME[i]=1.873327
+DJB!!!Volume = 1.826602
+Sample VOLUME[i]=1.826602
+DJB!!!Volume = 1.850634
+Sample VOLUME[i]=1.850634
+DJB!!!Volume = 1.581194
+Sample VOLUME[i]=1.581194
+DJB!!!Volume = 1.864476
+Sample VOLUME[i]=1.864476
+DJB!!!Volume = 1.841590
+Sample VOLUME[i]=1.841590
+DJB!!!Volume = 1.845174
+Sample VOLUME[i]=1.845174
+DJB!!!Volume = 1.805314
+Sample VOLUME[i]=1.805314
+DJB!!!Volume = 1.903425
+Sample VOLUME[i]=1.903425
+DJB!!!Volume = 1.899445
+Sample VOLUME[i]=1.899445
+DJB!!!Volume = 1.899153
+Sample VOLUME[i]=1.899153
+DJB!!!Volume = 1.806600
+Sample VOLUME[i]=1.806600
+DJB!!!Volume = 1.840050
+Sample VOLUME[i]=1.840050
+ADDING VALUE Average=1.88207042, Volume[i]=1.882070
+ADDING VALUE Average=3.75401497, Volume[i]=1.871945
+ADDING VALUE Average=5.56944275, Volume[i]=1.815428
+ADDING VALUE Average=7.43090057, Volume[i]=1.861458
+ADDING VALUE Average=9.26168251, Volume[i]=1.830782
+ADDING VALUE Average=11.14632225, Volume[i]=1.884640
+ADDING VALUE Average=12.95182610, Volume[i]=1.805503
+ADDING VALUE Average=14.87622547, Volume[i]=1.924399
+ADDING VALUE Average=16.59653091, Volume[i]=1.720306
+ADDING VALUE Average=18.48976135, Volume[i]=1.893230
+ADDING VALUE Average=20.41019249, Volume[i]=1.920432
+ADDING VALUE Average=21.97056770, Volume[i]=1.560375
+ADDING VALUE Average=23.83133125, Volume[i]=1.860763
+ADDING VALUE Average=25.75015068, Volume[i]=1.918819
+ADDING VALUE Average=27.65519333, Volume[i]=1.905042
+ADDING VALUE Average=29.48475456, Volume[i]=1.829561
+ADDING VALUE Average=31.29858971, Volume[i]=1.813835
+ADDING VALUE Average=33.17191696, Volume[i]=1.873327
+ADDING VALUE Average=34.99851990, Volume[i]=1.826602
+ADDING VALUE Average=36.84915543, Volume[i]=1.850634
+ADDING VALUE Average=38.43034744, Volume[i]=1.581194
+ADDING VALUE Average=40.29482269, Volume[i]=1.864476
+ADDING VALUE Average=42.13641357, Volume[i]=1.841590
+ADDING VALUE Average=43.98158646, Volume[i]=1.845174
+ADDING VALUE Average=45.78689957, Volume[i]=1.805314
+ADDING VALUE Average=47.69032288, Volume[i]=1.903425
+ADDING VALUE Average=49.58976746, Volume[i]=1.899445
+ADDING VALUE Average=51.48892212, Volume[i]=1.899153
+ADDING VALUE Average=53.29552078, Volume[i]=1.806600
+ADDING VALUE Average=55.13557053, Volume[i]=1.840050
+BEFORE Average=55.13557053
+VolumeAverage=1.83785236
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 1.503832
+Sample VOLUME[i]=1.503832
+DJB!!!Volume = 1.604758
+Sample VOLUME[i]=1.604758
+DJB!!!Volume = 1.534243
+Sample VOLUME[i]=1.534243
+DJB!!!Volume = 1.435218
+Sample VOLUME[i]=1.435218
+DJB!!!Volume = 1.400074
+Sample VOLUME[i]=1.400074
+DJB!!!Volume = 1.441230
+Sample VOLUME[i]=1.441230
+DJB!!!Volume = 1.549550
+Sample VOLUME[i]=1.549550
+DJB!!!Volume = 1.381214
+Sample VOLUME[i]=1.381214
+DJB!!!Volume = 1.553411
+Sample VOLUME[i]=1.553411
+DJB!!!Volume = 1.521391
+Sample VOLUME[i]=1.521391
+DJB!!!Volume = 1.524568
+Sample VOLUME[i]=1.524568
+DJB!!!Volume = 1.606140
+Sample VOLUME[i]=1.606140
+DJB!!!Volume = 1.415176
+Sample VOLUME[i]=1.415176
+DJB!!!Volume = 1.582283
+Sample VOLUME[i]=1.582283
+DJB!!!Volume = 1.557261
+Sample VOLUME[i]=1.557261
+DJB!!!Volume = 1.564986
+Sample VOLUME[i]=1.564986
+DJB!!!Volume = 1.508637
+Sample VOLUME[i]=1.508637
+DJB!!!Volume = 1.605492
+Sample VOLUME[i]=1.605492
+DJB!!!Volume = 1.571527
+Sample VOLUME[i]=1.571527
+DJB!!!Volume = 1.430264
+Sample VOLUME[i]=1.430264
+DJB!!!Volume = 1.604959
+Sample VOLUME[i]=1.604959
+DJB!!!Volume = 1.595422
+Sample VOLUME[i]=1.595422
+DJB!!!Volume = 1.481428
+Sample VOLUME[i]=1.481428
+DJB!!!Volume = 1.471051
+Sample VOLUME[i]=1.471051
+DJB!!!Volume = 1.553367
+Sample VOLUME[i]=1.553367
+DJB!!!Volume = 1.456368
+Sample VOLUME[i]=1.456368
+DJB!!!Volume = 1.561832
+Sample VOLUME[i]=1.561832
+DJB!!!Volume = 1.508114
+Sample VOLUME[i]=1.508114
+DJB!!!Volume = 1.471250
+Sample VOLUME[i]=1.471250
+DJB!!!Volume = 1.430138
+Sample VOLUME[i]=1.430138
+ADDING VALUE Average=1.50383162, Volume[i]=1.503832
+ADDING VALUE Average=3.10858989, Volume[i]=1.604758
+ADDING VALUE Average=4.64283276, Volume[i]=1.534243
+ADDING VALUE Average=6.07805109, Volume[i]=1.435218
+ADDING VALUE Average=7.47812510, Volume[i]=1.400074
+ADDING VALUE Average=8.91935539, Volume[i]=1.441230
+ADDING VALUE Average=10.46890545, Volume[i]=1.549550
+ADDING VALUE Average=11.85011864, Volume[i]=1.381214
+ADDING VALUE Average=13.40353012, Volume[i]=1.553411
+ADDING VALUE Average=14.92492104, Volume[i]=1.521391
+ADDING VALUE Average=16.44948959, Volume[i]=1.524568
+ADDING VALUE Average=18.05562973, Volume[i]=1.606140
+ADDING VALUE Average=19.47080612, Volume[i]=1.415176
+ADDING VALUE Average=21.05308914, Volume[i]=1.582283
+ADDING VALUE Average=22.61034966, Volume[i]=1.557261
+ADDING VALUE Average=24.17533493, Volume[i]=1.564986
+ADDING VALUE Average=25.68397141, Volume[i]=1.508637
+ADDING VALUE Average=27.28946304, Volume[i]=1.605492
+ADDING VALUE Average=28.86099052, Volume[i]=1.571527
+ADDING VALUE Average=30.29125595, Volume[i]=1.430264
+ADDING VALUE Average=31.89621544, Volume[i]=1.604959
+ADDING VALUE Average=33.49163818, Volume[i]=1.595422
+ADDING VALUE Average=34.97306824, Volume[i]=1.481428
+ADDING VALUE Average=36.44411850, Volume[i]=1.471051
+ADDING VALUE Average=37.99748611, Volume[i]=1.553367
+ADDING VALUE Average=39.45385361, Volume[i]=1.456368
+ADDING VALUE Average=41.01568604, Volume[i]=1.561832
+ADDING VALUE Average=42.52379990, Volume[i]=1.508114
+ADDING VALUE Average=43.99504852, Volume[i]=1.471250
+ADDING VALUE Average=45.42518616, Volume[i]=1.430138
+BEFORE Average=45.42518616
+VolumeAverage=1.51417291
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 0.882595
+Sample VOLUME[i]=0.882595
+DJB!!!Volume = 0.937590
+Sample VOLUME[i]=0.937590
+DJB!!!Volume = 0.840240
+Sample VOLUME[i]=0.840240
+DJB!!!Volume = 0.920072
+Sample VOLUME[i]=0.920072
+DJB!!!Volume = 0.953485
+Sample VOLUME[i]=0.953485
+DJB!!!Volume = 0.962148
+Sample VOLUME[i]=0.962148
+DJB!!!Volume = 0.928215
+Sample VOLUME[i]=0.928215
+DJB!!!Volume = 0.935590
+Sample VOLUME[i]=0.935590
+DJB!!!Volume = 0.923945
+Sample VOLUME[i]=0.923945
+DJB!!!Volume = 0.863118
+Sample VOLUME[i]=0.863118
+DJB!!!Volume = 0.916624
+Sample VOLUME[i]=0.916624
+DJB!!!Volume = 0.967203
+Sample VOLUME[i]=0.967203
+DJB!!!Volume = 0.931086
+Sample VOLUME[i]=0.931086
+DJB!!!Volume = 0.787974
+Sample VOLUME[i]=0.787974
+DJB!!!Volume = 0.808329
+Sample VOLUME[i]=0.808329
+DJB!!!Volume = 0.954946
+Sample VOLUME[i]=0.954946
+DJB!!!Volume = 0.919985
+Sample VOLUME[i]=0.919985
+DJB!!!Volume = 0.931260
+Sample VOLUME[i]=0.931260
+DJB!!!Volume = 0.835753
+Sample VOLUME[i]=0.835753
+DJB!!!Volume = 0.934000
+Sample VOLUME[i]=0.934000
+DJB!!!Volume = 0.894727
+Sample VOLUME[i]=0.894727
+DJB!!!Volume = 0.944942
+Sample VOLUME[i]=0.944942
+DJB!!!Volume = 0.956317
+Sample VOLUME[i]=0.956317
+DJB!!!Volume = 0.973995
+Sample VOLUME[i]=0.973995
+DJB!!!Volume = 0.815458
+Sample VOLUME[i]=0.815458
+DJB!!!Volume = 0.846031
+Sample VOLUME[i]=0.846031
+DJB!!!Volume = 0.873953
+Sample VOLUME[i]=0.873953
+DJB!!!Volume = 0.860600
+Sample VOLUME[i]=0.860600
+DJB!!!Volume = 0.920953
+Sample VOLUME[i]=0.920953
+DJB!!!Volume = 0.960464
+Sample VOLUME[i]=0.960464
+ADDING VALUE Average=0.88259482, Volume[i]=0.882595
+ADDING VALUE Average=1.82018471, Volume[i]=0.937590
+ADDING VALUE Average=2.66042471, Volume[i]=0.840240
+ADDING VALUE Average=3.58049703, Volume[i]=0.920072
+ADDING VALUE Average=4.53398180, Volume[i]=0.953485
+ADDING VALUE Average=5.49612999, Volume[i]=0.962148
+ADDING VALUE Average=6.42434454, Volume[i]=0.928215
+ADDING VALUE Average=7.35993481, Volume[i]=0.935590
+ADDING VALUE Average=8.28388023, Volume[i]=0.923945
+ADDING VALUE Average=9.14699841, Volume[i]=0.863118
+ADDING VALUE Average=10.06362247, Volume[i]=0.916624
+ADDING VALUE Average=11.03082561, Volume[i]=0.967203
+ADDING VALUE Average=11.96191216, Volume[i]=0.931086
+ADDING VALUE Average=12.74988651, Volume[i]=0.787974
+ADDING VALUE Average=13.55821609, Volume[i]=0.808329
+ADDING VALUE Average=14.51316166, Volume[i]=0.954946
+ADDING VALUE Average=15.43314648, Volume[i]=0.919985
+ADDING VALUE Average=16.36440659, Volume[i]=0.931260
+ADDING VALUE Average=17.20015907, Volume[i]=0.835753
+ADDING VALUE Average=18.13415909, Volume[i]=0.934000
+ADDING VALUE Average=19.02888489, Volume[i]=0.894727
+ADDING VALUE Average=19.97382736, Volume[i]=0.944942
+ADDING VALUE Average=20.93014526, Volume[i]=0.956317
+ADDING VALUE Average=21.90414047, Volume[i]=0.973995
+ADDING VALUE Average=22.71959877, Volume[i]=0.815458
+ADDING VALUE Average=23.56562996, Volume[i]=0.846031
+ADDING VALUE Average=24.43958282, Volume[i]=0.873953
+ADDING VALUE Average=25.30018234, Volume[i]=0.860600
+ADDING VALUE Average=26.22113609, Volume[i]=0.920953
+ADDING VALUE Average=27.18160057, Volume[i]=0.960464
+BEFORE Average=27.18160057
+VolumeAverage=0.90605336
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 1.875037
+Sample VOLUME[i]=1.875037
+DJB!!!Volume = 1.869398
+Sample VOLUME[i]=1.869398
+DJB!!!Volume = 1.875582
+Sample VOLUME[i]=1.875582
+DJB!!!Volume = 1.574077
+Sample VOLUME[i]=1.574077
+DJB!!!Volume = 1.854972
+Sample VOLUME[i]=1.854972
+DJB!!!Volume = 1.612252
+Sample VOLUME[i]=1.612252
+DJB!!!Volume = 1.833732
+Sample VOLUME[i]=1.833732
+DJB!!!Volume = 1.791870
+Sample VOLUME[i]=1.791870
+DJB!!!Volume = 1.902768
+Sample VOLUME[i]=1.902768
+DJB!!!Volume = 1.838791
+Sample VOLUME[i]=1.838791
+DJB!!!Volume = 1.837985
+Sample VOLUME[i]=1.837985
+DJB!!!Volume = 1.857020
+Sample VOLUME[i]=1.857020
+DJB!!!Volume = 1.827502
+Sample VOLUME[i]=1.827502
+DJB!!!Volume = 1.862309
+Sample VOLUME[i]=1.862309
+DJB!!!Volume = 1.853063
+Sample VOLUME[i]=1.853063
+DJB!!!Volume = 1.868402
+Sample VOLUME[i]=1.868402
+DJB!!!Volume = 1.865880
+Sample VOLUME[i]=1.865880
+DJB!!!Volume = 1.869771
+Sample VOLUME[i]=1.869771
+DJB!!!Volume = 1.844624
+Sample VOLUME[i]=1.844624
+DJB!!!Volume = 1.899744
+Sample VOLUME[i]=1.899744
+DJB!!!Volume = 1.797884
+Sample VOLUME[i]=1.797884
+DJB!!!Volume = 1.901270
+Sample VOLUME[i]=1.901270
+DJB!!!Volume = 1.829917
+Sample VOLUME[i]=1.829917
+DJB!!!Volume = 1.854732
+Sample VOLUME[i]=1.854732
+DJB!!!Volume = 1.778436
+Sample VOLUME[i]=1.778436
+DJB!!!Volume = 1.807810
+Sample VOLUME[i]=1.807810
+DJB!!!Volume = 1.866036
+Sample VOLUME[i]=1.866036
+DJB!!!Volume = 1.861146
+Sample VOLUME[i]=1.861146
+DJB!!!Volume = 1.913122
+Sample VOLUME[i]=1.913122
+DJB!!!Volume = 1.921710
+Sample VOLUME[i]=1.921710
+ADDING VALUE Average=1.87503672, Volume[i]=1.875037
+ADDING VALUE Average=3.74443436, Volume[i]=1.869398
+ADDING VALUE Average=5.62001657, Volume[i]=1.875582
+ADDING VALUE Average=7.19409370, Volume[i]=1.574077
+ADDING VALUE Average=9.04906559, Volume[i]=1.854972
+ADDING VALUE Average=10.66131687, Volume[i]=1.612252
+ADDING VALUE Average=12.49504852, Volume[i]=1.833732
+ADDING VALUE Average=14.28691864, Volume[i]=1.791870
+ADDING VALUE Average=16.18968773, Volume[i]=1.902768
+ADDING VALUE Average=18.02847862, Volume[i]=1.838791
+ADDING VALUE Average=19.86646271, Volume[i]=1.837985
+ADDING VALUE Average=21.72348213, Volume[i]=1.857020
+ADDING VALUE Average=23.55098534, Volume[i]=1.827502
+ADDING VALUE Average=25.41329384, Volume[i]=1.862309
+ADDING VALUE Average=27.26635742, Volume[i]=1.853063
+ADDING VALUE Average=29.13475990, Volume[i]=1.868402
+ADDING VALUE Average=31.00063896, Volume[i]=1.865880
+ADDING VALUE Average=32.87041092, Volume[i]=1.869771
+ADDING VALUE Average=34.71503448, Volume[i]=1.844624
+ADDING VALUE Average=36.61478043, Volume[i]=1.899744
+ADDING VALUE Average=38.41266251, Volume[i]=1.797884
+ADDING VALUE Average=40.31393433, Volume[i]=1.901270
+ADDING VALUE Average=42.14385223, Volume[i]=1.829917
+ADDING VALUE Average=43.99858475, Volume[i]=1.854732
+ADDING VALUE Average=45.77701950, Volume[i]=1.778436
+ADDING VALUE Average=47.58483124, Volume[i]=1.807810
+ADDING VALUE Average=49.45086670, Volume[i]=1.866036
+ADDING VALUE Average=51.31201172, Volume[i]=1.861146
+ADDING VALUE Average=53.22513580, Volume[i]=1.913122
+ADDING VALUE Average=55.14684677, Volume[i]=1.921710
+BEFORE Average=55.14684677
+VolumeAverage=1.83822823
+FOOD ITEM ID = 2541, StdZ=0.731954, MeanZ=1.189023, MinZ=0.064114, MaxZ=4.200843, Percent Sample = 0.90, Plate Height = 0.55, StdDevUp = 6.00, StdDevDown = 3.00, MealID = 1187, SampleSize=30
+DJB!!!Volume = 1.858545
+Sample VOLUME[i]=1.858545
+DJB!!!Volume = 1.860233
+Sample VOLUME[i]=1.860233
+DJB!!!Volume = 1.868156
+Sample VOLUME[i]=1.868156
+DJB!!!Volume = 1.886036
+Sample VOLUME[i]=1.886036
+DJB!!!Volume = 1.859501
+Sample VOLUME[i]=1.859501
+DJB!!!Volume = 1.871706
+Sample VOLUME[i]=1.871706
+DJB!!!Volume = 1.911296
+Sample VOLUME[i]=1.911296
+DJB!!!Volume = 1.755638
+Sample VOLUME[i]=1.755638
+DJB!!!Volume = 1.855297
+Sample VOLUME[i]=1.855297
+DJB!!!Volume = 1.795694
+Sample VOLUME[i]=1.795694
+DJB!!!Volume = 1.892963
+Sample VOLUME[i]=1.892963
+DJB!!!Volume = 1.872891
+Sample VOLUME[i]=1.872891
+DJB!!!Volume = 1.865251
+Sample VOLUME[i]=1.865251
+DJB!!!Volume = 1.579169
+Sample VOLUME[i]=1.579169
+DJB!!!Volume = 1.925020
+Sample VOLUME[i]=1.925020
+DJB!!!Volume = 1.867512
+Sample VOLUME[i]=1.867512
+DJB!!!Volume = 1.849333
+Sample VOLUME[i]=1.849333
+DJB!!!Volume = 1.799566
+Sample VOLUME[i]=1.799566
+DJB!!!Volume = 1.855569
+Sample VOLUME[i]=1.855569
+DJB!!!Volume = 1.888224
+Sample VOLUME[i]=1.888224
+DJB!!!Volume = 1.817245
+Sample VOLUME[i]=1.817245
+DJB!!!Volume = 1.838920
+Sample VOLUME[i]=1.838920
+DJB!!!Volume = 1.876925
+Sample VOLUME[i]=1.876925
+DJB!!!Volume = 1.852032
+Sample VOLUME[i]=1.852032
+DJB!!!Volume = 1.902286
+Sample VOLUME[i]=1.902286
+DJB!!!Volume = 1.811120
+Sample VOLUME[i]=1.811120
+DJB!!!Volume = 1.919008
+Sample VOLUME[i]=1.919008
+DJB!!!Volume = 1.870479
+Sample VOLUME[i]=1.870479
+DJB!!!Volume = 1.822780
+Sample VOLUME[i]=1.822780
+DJB!!!Volume = 1.802080
+Sample VOLUME[i]=1.802080
+ADDING VALUE Average=1.85854459, Volume[i]=1.858545
+ADDING VALUE Average=3.71877766, Volume[i]=1.860233
+ADDING VALUE Average=5.58693361, Volume[i]=1.868156
+ADDING VALUE Average=7.47296906, Volume[i]=1.886036
+ADDING VALUE Average=9.33247089, Volume[i]=1.859501
+ADDING VALUE Average=11.20417690, Volume[i]=1.871706
+ADDING VALUE Average=13.11547279, Volume[i]=1.911296
+ADDING VALUE Average=14.87110996, Volume[i]=1.755638
+ADDING VALUE Average=16.72640610, Volume[i]=1.855297
+ADDING VALUE Average=18.52210045, Volume[i]=1.795694
+ADDING VALUE Average=20.41506386, Volume[i]=1.892963
+ADDING VALUE Average=22.28795433, Volume[i]=1.872891
+ADDING VALUE Average=24.15320587, Volume[i]=1.865251
+ADDING VALUE Average=25.73237419, Volume[i]=1.579169
+ADDING VALUE Average=27.65739441, Volume[i]=1.925020
+ADDING VALUE Average=29.52490616, Volume[i]=1.867512
+ADDING VALUE Average=31.37423897, Volume[i]=1.849333
+ADDING VALUE Average=33.17380524, Volume[i]=1.799566
+ADDING VALUE Average=35.02937317, Volume[i]=1.855569
+ADDING VALUE Average=36.91759491, Volume[i]=1.888224
+ADDING VALUE Average=38.73484039, Volume[i]=1.817245
+ADDING VALUE Average=40.57376099, Volume[i]=1.838920
+ADDING VALUE Average=42.45068741, Volume[i]=1.876925
+ADDING VALUE Average=44.30271912, Volume[i]=1.852032
+ADDING VALUE Average=46.20500565, Volume[i]=1.902286
+ADDING VALUE Average=48.01612473, Volume[i]=1.811120
+ADDING VALUE Average=49.93513107, Volume[i]=1.919008
+ADDING VALUE Average=51.80561066, Volume[i]=1.870479
+ADDING VALUE Average=53.62839127, Volume[i]=1.822780
+ADDING VALUE Average=55.43046951, Volume[i]=1.802080
+BEFORE Average=55.43046951
+VolumeAverage=1.84768236

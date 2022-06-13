@@ -1,0 +1,8 @@
+START
+Image: 4745, CountOfBLOBS: 1
+Image: 4746, CountOfBLOBS: 1
+Image: 4747, CountOfBLOBS: 1
+START
+Image: 4751, CountOfBLOBS: 1
+Image: 4752, CountOfBLOBS: 1
+Image: 4753, CountOfBLOBS: 1

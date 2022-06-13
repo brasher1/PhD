@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!-- My Image Points -->
+<IMAGE-POINTS type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>2</cols>
+  <dt>f</dt>
+  <data>
+    45. 241. 1409. 1074. 1446. 215. 1491. 979. 1495. 1069.</data></IMAGE-POINTS>
+</opencv_storage>

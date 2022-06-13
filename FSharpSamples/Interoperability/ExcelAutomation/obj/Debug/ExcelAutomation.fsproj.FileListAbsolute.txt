@@ -1,0 +1,10 @@
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\Excel.exe
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\Excel.pdb
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\office.dll
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\office.xml
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\obj\Debug\ResolveAssemblyReference.cache
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\obj\Debug\Excel.exe
+E:\Dev\FSharpSamples\Interoperability\ExcelAutomation\obj\Debug\Excel.pdb

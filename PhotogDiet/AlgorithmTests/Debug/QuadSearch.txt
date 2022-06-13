@@ -1,0 +1,118 @@
+Found a Quad: 7, 9, 13, 14
+Shading: 100, 0, 100, 0
+Found a Quad: 1, 2, 3, 4
+Shading: 0, 100, 100, 0
+Found a Quad: 10, 12, 13, 14
+Shading: 100, 0, 0, 100
+Found a Quad: 1, 2, 3, 4
+Shading: 100, 0, 0, 100
+Found a Quad: 11, 12, 13, 14
+Shading: 0, 100, 100, 0
+Found a Quad: 12, 13, 14, 15
+Shading: 0, 100, 100, 0
+Found a Quad: 17, 18, 16, 19
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 13, 14, 15, 17
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 9, 10, 11
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 8, 9, 10, 11
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 9, 10, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 4, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 9, 10, 11, 12
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 9, 10, 11
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 4, 5
+Shading: 100, 0, 0, 100
+Found a Quad: 11, 12, 13, 14
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 9, 10, 11
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 12, 13, 14, 15
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 4, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 10, 11, 12, 13
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 10, 11, 12, 13
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 9, 10, 11, 12
+Shading: 0, 100, 100, 0
+Found a Quad: 7, 8, 9, 10
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 4, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 11, 12, 13, 14
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 10, 11, 12, 13
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 8, 9, 10, 11
+Shading: 100, 0, 0, 100
+Found a Quad: 1, 2, 5, 0
+Shading: 0, 0, 100, 100
+Found a Quad: 2, 3, 4, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 15, 16, 18, 19
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 2, 3, 5, 6
+Shading: 100, 0, 0, 100
+Found a Quad: 10, 11, 12, 13
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 13
+Shading: 0, 100, 100, 0
+Found a Quad: 3, 4, 5, 6
+Shading: 0, 100, 100, 0
+Found a Quad: 9, 10, 11, 12
+Shading: 100, 0, 0, 100
+Found a Quad: 11, 12, 13, 15
+Shading: 100, 0, 0, 0
